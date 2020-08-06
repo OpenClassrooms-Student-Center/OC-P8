@@ -1,7 +1,7 @@
 [
 	{
 		"id": "c67ab8a7",
-		"title": "Appartement cosy",
+		"title": "Cosy Appartement",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
@@ -10,18 +10,18 @@
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-4.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-5.jpg"
 		],
-		"description": "Votre maison loin de chez vous. Que vous veniez de l'autre bout du monde, ou juste de quelques stations de RER, vous vous sentirez chez vous dans notre appartement.",
+		"description": "Your home away from home. Whether you're coming from the other side of the world or just a few metro stations away, you'll feel at home in your new appartment.",
 		"host": {
 			"name": "Nathalie Jean",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-12.jpg"
 		},
 		"rating": "5",
-		"location": "Ile de France - Paris 17e",
-		"equipments": [
-			"Équipements de base",
-			"Micro-Ondes",
-			"Douche italienne",
-			"Frigo",
+		"Location": "Paris - 17th arrondissement",
+		"Amenities": [
+			"Basic Appliances",
+			"Microwave",
+			"Italian Shower",
+			"Fridge",
 			"WIFI"
 		],
 		"tags": [
@@ -31,7 +31,7 @@
 	},
 	{
 		"id": "b9123946",
-		"title": "Magnifique appartement proche Canal Saint Martin",
+		"title": "Magnificent Apartment Near Saint Martin's Canal",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
@@ -41,30 +41,30 @@
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-5.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-6.jpg"
 		],
-		"description": "Profitez du charme de la vie parisienne dans un magnifique appartement. A 3 minutes à pied du Canl Saint Martin, vous serez proche des transports, mais également de nombreux commerces. L'appartement est tout équipé, et possède également un parking pour ceux qui souhaitent se déplacer en voiture.",
+		"description": "Immerse yourself in the charm of the Parisian lifestyle in this beautiful apartment. Only 3 minutes from Saint Martin's Canal and close to public transportation and shops. Fully equiped, the apartment also has a parking space.",
 		"host": {
 			"name": "Della Case",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-1.jpg"
 		},
 		"rating": "4",
-		"location": "Ile de France - Paris 10e",
-		"equipments": [
-			"Parking",
-			"Sèche Cheveux",
-			"Machine à laver",
-			"Wi-fi",
-			"Cuisine équipée",
-			"Télévision"
+		"location": "Paris - 10th arrondissement",
+		"Amenities": [
+			"Parking space",
+			"Hair Dryer",
+			"Washing Machine",
+			"Wifi",
+			"Fully equiped kitchen",
+			"TV"
 		],
 		"tags": [
 			"Canal Saint Martin",
-			"République",
-			"Appartement"
+			"Republique",
+			"Apartment"
 		]
 	},
 	{
 		"id": "46d188c5",
-		"title": "Studio de charme - Buttes Chaumont",
+		"title": "Charming Studio - Buttes Chaumont",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-2-1.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-2-1.jpg",
@@ -72,28 +72,28 @@
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-2-3.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-2-4.jpg"
 		],
-		"description": "À seulement deux pas des Buttes Chaumont, venez découvrir Paris dans ce studio tout équipé. Entièrement équipé pour votre confort et élégamment décoré, il vous permettra de vivre comme un Parisien le temps de votre séjour.",
+		"description": "Only a short walk away from the Buttes Chaumont park, this is the perfect spot for visiting Paris.  Fully equiped for your confort (and decorated), you'll live like a Parisian while you're here.",
 		"host": {
 			"name": "Franck Maher",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-2.jpg"
 		},
 		"rating": "3",
-		"location": "Ile de France - Paris 20e",
-		"equipments": [
-			"Wi-fi",
-			"Cuisine équipée",
-			"Télévision",
-			"Sèche Cheveux"
+		"location": "Paris - 20th Arrondissement",
+		"Amenities": [
+			"Wifi",
+			"Equiped Kitchen",
+			"TV",
+			"Hair Dryer"
 		],
 		"tags": [
 			"Buttes Chaumont",
-			"Laumière",
+			"Laumiere",
 			"Studio"
 		]
 	},
 	{
 		"id": "7af00cd6",
-		"title": "Nid douillet au coeur du 11ème",
+		"title": "A Little Nest in the 11th Arrondissement",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-3-1.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-3-1.jpg",
@@ -101,30 +101,30 @@
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-3-3.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-3-4.jpg"
 		],
-		"description": "Venez découvrir Paris en séjournant dans ce nid douillet au coeur du 11ème. La vue sur le parc résidentiel saura vous reposer de vos longues journées de tourisme dans la capitale française. Et pour les plus fêtards d'entre vous, la rue Jean Pierre Timbaud vous permettra de découvrir la night-life parisienne à seulement 5 minutes de l'appartement.",
+		"description": "Come and discover Paris by staying in this cosy nest in the heart of the 11th district. The view from this residential park will make you feel rested after long days of visiting the French capital. And for the partygoers among you, the rue Jean Pierre Timbaud will allow you to discover the Parisian night-life only 5 minutes away from the apartment.",
 		"host": {
 			"name": "Della Case",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-1.jpg"
 		},
 		"rating": "3",
-		"location": "Ile de France - Paris 11e",
-		"equipments": [
-			"Micro-Ondes",
-			"Wi-fi",
-			"Chambre Séparée",
-			"Climatisation",
-			"Télévision"
+		"location": "Paris - 11th Arrondissement",
+		"Amenities": [
+			"Microwave",
+			"Wifi",
+			"Private Room",
+			"Air Conditioning",
+			"TV"
 		],
 		"tags": [
 			"Parmentier",
 			"Marais",
-			"Parc",
+			"Park",
 			"Night Life"
 		]
 	},
 	{
 		"id": "0979876d",
-		"title": "Appartement de Standing - 10e",
+		"title": "Luxery Apartment - 10th Arrondissement",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-4-1.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-4-1.jpg",
@@ -134,28 +134,28 @@
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-4-5.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-4-6.jpg"
 		],
-		"description": "Ce loft entièrement rénové, et équipé de meubles de luxe saura vous séduire. Idéalement situé dans le 10ème arrondissement, vous déplacer dans Paris sera un véritable jeu d'enfant.",
+		"description": "This fully renovated loft, equiped with luxury furniture will seduce you. Ideally located in the 10th district, moving around Paris will be child's play.",
 		"host": {
 			"name": "Franck Maher",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-2.jpg"
 		},
 		"rating": "5",
-		"location": "Ile de France - Paris 10e",
-		"equipments": [
-			"Frigo Américain",
-			"Sèche Cheveux",
-			"Wi-fi",
-			"Chambre Séparée",
-			"Parking"
+		"location": "Paris - 10th Arrondissement",
+		"Amenities": [
+			"Fridge",
+			"Hair Dryer",
+			"Wifi",
+			"Private Room",
+			"Parking space"
 		],
 		"tags": [
 			"Goncourt",
-			"Proche commerces"
+			"Near Shops"
 		]
 	},
 	{
 		"id": "f72a452f",
-		"title": "Studio d'artiste",
+		"title": "Artist's Studio",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-5-1.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-5-1.jpg",
@@ -164,26 +164,26 @@
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-5-4.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-5-5.jpg"
 		],
-		"description": "Venez vous imprégner de la culture parisienne dans cet ancien studio d'artiste décoré avec goût, au coeur de Montmartre.",
+		"description": "Come and immerse yourself in Parisian culture in this tastefully decorated former artist's studio in the heart of Montmartre.",
 		"host": {
 			"name": "Line Rolland",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-3.jpg"
 		},
 		"rating": "5",
 		"location": "Ile de France - Paris 18e",
-		"equipments": [
-			"Chambre Séparée",
-			"Parking"
+		"Amenities": [
+			"Private Room",
+			"Parking space"
 		],
 		"tags": [
 			"Montmartre",
 			"Culture",
-			"Charme"
+			"Charm"
 		]
 	},
 	{
 		"id": "b4c67936",
-		"title": "Cheap - Studio 18ème",
+		"title": "Cheap - Studio 18th Arrondissement",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-6-1.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-6-1.jpg",
@@ -191,30 +191,30 @@
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-6-3.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-6-4.jpg"
 		],
-		"description": "Ce Studio entièrement fonctionnel sera votre parfait pied à terre pour toutes vos excursions parisiennes. Idéalement situé près des lignes 2 et 4, vous accéderez très rapidement à tous les points touristiques de Paris.",
+		"description": "This fully functional Studio will be your perfect pied-à-terre for all your Parisian excursions. Ideally located near lines 2 and 4, you will quickly reach all the tourist points of Paris.",
 		"host": {
 			"name": "Hugo Perrier",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-4.jpg"
 		},
 		"rating": "3",
-		"location": "Ile de France - Paris 18e",
-		"equipments": [
-			"Salle de bains",
-			"Frigo",
-			"Wi-fi",
-			"Sèche Cheveux",
-			"Bureau",
-			"Parking"
+		"location": "Paris - 18th Arrondissement",
+		"Amenities": [
+			"Bathroom",
+			"Fridge",
+			"Wifi",
+			"Hair Dryer",
+			"Desk",
+			"Parking space"
 		],
 		"tags": [
-			"Transports",
+			"Transportation",
 			"Cheap",
-			"18ème"
+			"18th Arrondissement"
 		]
 	},
 	{
 		"id": "bc6f7112",
-		"title": "Superbe appartement proche Tour Eiffel",
+		"title": "Superb Apartment Close to the Eiffel Tower",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-7-1.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-7-1.jpg",
@@ -224,31 +224,31 @@
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-7-5.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-7-6.jpg"
 		],
-		"description": "Ce superbe appartement vous surprendra par son charme. Entièrement refait à neuf, il est équipé avec goût. La taille des pièces vous fera douter que vous êtes à Paris. Mais il vous suffit de sortir pour voir que vous êtes au coeur des plus belles attractions de Paris : le Louvre, la Tour Eiffel, le Grand Palais sont à deux pas. À vous de venir découvrir Paris !",
+		"description": "This superb apartment will surprise you with its charm. Entirely renovated, it is tastefully equipped. The size of the rooms will make you doubt that you are in Paris. But you just have to go outside to see that you are in the heart of the most beautiful attractions of Paris: the Louvre, the Eiffel Tower, the Grand Palais are just a few steps away. It's up to you to come and discover Paris!",
 		"host": {
 			"name": "Sébastien Fournier",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-5.jpg"
 		},
 		"rating": "5",
-		"location": "Ile de France - Paris 6e",
-		"equipments": [
-			"Wi-fi",
-			"Sèche Cheveux",
-			"Machine à laver",
-			"Parking",
-			"Lit King Size",
-			"Ascenseur"
+		"location": "Paris - 6th Arrondissement",
+		"Amenities": [
+			"Wifi",
+			"Hair Dryer",
+			"Washing Machine",
+			"Parking space",
+			"King Size Bed",
+			"Elevator"
 		],
 		"tags": [
-			"Luxe",
-			"Tour Eiffel",
-			"T3",
-			"6ème"
+			"Luxery",
+			"Eiffel Tower",
+			"3 bedroom",
+			"6th Arrondissement"
 		]
 	},
 	{
 		"id": "cb2f9222",
-		"title": "Suite familiale",
+		"title": "Family Sized Apartment",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-8-1.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-8-1.jpg",
@@ -257,29 +257,29 @@
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-8-4.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-8-5.jpg"
 		],
-		"description": "Paris vous tend les bras ! En famille ou entre amis, venez découvrir la ville de l'amour dans un appartement de goût. Vous pourrez profiter de tous les commerces seulement à quelques minutes de l'appartement. Sa proximité avec la gare Montparnasse en fait également un choix idéal pour celles et ceux qui doivent prendre un train.",
+		"description": "Paris welcomes you! With family or friends, come and discover the city of love in a tasteful apartment. You will be able to take advantage of all the shops only a few minutes away from the apartment. Its proximity to the Montparnasse train station also makes it an ideal choice for those who have to take a train.",
 		"host": {
 			"name": "Adrien Chiran",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-6.jpg"
 		},
 		"rating": "4",
-		"location": "Ile de France - Paris 14e",
+		"location": "Paris - 14th Arrondissement",
 		"equipments": [
-			"Climatisation",
-			"Machine à laver",
-			"Sèche Cheveux",
-			"Wi-fi",
-			"Parking"
+			"Air Conditioning",
+			"Washing Machine",
+			"Hair Dryer",
+			"Wifi",
+			"Parking space"
 		],
 		"tags": [
 			"Montparnasse",
-			"Commerces",
-			"Famille"
+			"Shops",
+			"Family"
 		]
 	},
 	{
 		"id": "d60ca600",
-		"title": "Appartement moderne sur parc",
+		"title": "Modern Apartment With Park View",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-9-1.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-9-1.jpg",
@@ -287,31 +287,31 @@
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-9-3.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-9-4.jpg"
 		],
-		"description": "Respirer en plein coeur de Paris ? C'est possible ! Avec vue sur un parc résidentiel, vous pourrez ouvrir les fenêtres sans avoir à souffrir du bruit des voitures et de la pollution. Au contraire, vous pourrez écouter les oiseaux. Notre appartement est également idéalement situé au coeur du 11ème arrondissement. Proche des lignes 3 et 2, vous pourrez découvrir Paris sans effort !",
+		"description": "Relaxation in the heart of Paris? It's possible! Overlooking a residential park, you will be able to open the windows without having to suffer from the noise of cars and pollution. On the contrary, you will be able to listen to the birds. Our apartment is also ideally located in the heart of the 11th district. Close to lines 3 and 2, you will be able to discover Paris without effort!",
 		"host": {
 			"name": "Adrien Chiran",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-6.jpg"
 		},
 		"rating": "3",
-		"location": "Ile de France - Paris 11e",
+		"location": "Paris - 11th Arrondissement",
 		"equipments": [
-			"Vue Parc",
-			"Chauffage",
-			"Sèche linge",
-			"Sèche Cheveux",
-			"Wi-fi",
-			"Ascenseur"
+			"Park View",
+			"Heating",
+			"Dryer",
+			"Hair Dryer",
+			"Wifi",
+			"Elevator"
 		],
 		"tags": [
 			"Père Lachaise",
-			"11e",
+			"11th Arrondissement",
 			"Metro 3",
 			"Metro 2"
 		]
 	},
 	{
 		"id": "2cf259e1",
-		"title": "Charmant Studio Marais",
+		"title": "Charming Studio in the Marais",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-10-1.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-10-1.jpg",
@@ -319,7 +319,7 @@
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-10-3.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-10-4.jpg"
 		],
-		"description": "Situé en plein coeur du Marais, notre studio est idéal pour les touristes en quête de découverte. Sa cuisine toute équipée est particulièrement pratique.",
+		"description": "Located in the heart of the Marais, our studio is ideal for tourists looking for discovery. Its fully equipped kitchen is particularly practical.",
 		"host": {
 			"name": "Victor Moran",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-7.jpg"
@@ -327,20 +327,20 @@
 		"rating": "4",
 		"location": "Ile de France - Paris 11e",
 		"equipments": [
-			"Clic-clac",
-			"Four",
-			"Sèche Cheveux",
-			"Wi-fi"
+			"Fold-out Couch",
+			"Oven",
+			"Hair Dryer",
+			"Wifi"
 		],
 		"tags": [
 			"Marais",
 			"Studio",
-			"Parc"
+			"ParK"
 		]
 	},
 	{
 		"id": "5323c29b",
-		"title": "Studio fonctionnel République",
+		"title": "Utilitairan Studio in Republique",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-11-3.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-11-3.jpg",
@@ -348,32 +348,32 @@
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-11-4.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-11-5.jpg"
 		],
-		"description": "Idéalement situé à 2 pas de la place de la République, ce studio particulièrement fonctionnel est parfait pour découvrir Paris. Proche de tous les points d'intérêts grâce aux 5 lignes de métro qui sont à 5 minutes, vous pourrez rentabiliser votre temps passé à la capitale.",
+		"description": "Ideally located 2 steps from the Place de la République, this particularly functional studio is perfect for discovering Paris. Close to all points of interest thanks to the 5 metro lines which are 5 minutes away, you will be able to make the most of your time in the capital.",
 		"host": {
 			"name": "Sarah Devit",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-8.jpg"
 		},
 		"rating": "3",
-		"location": "Ile de France - Paris 3e",
+		"location": "Paris - 3rd Arrondissement",
 		"equipments": [
-			"Rangements",
-			"Lit",
-			"Sèche Cheveux",
-			"Wi-fi",
+			"Storage",
+			"Bed",
+			"Hair Dryer",
+			"Wifi",
 			"TV",
-			"Bouilloire"
+			"Kettle"
 		],
 		"tags": [
 			"Marais",
-			"République",
+			"Republique",
 			"Studio",
-			"Proche Métros",
-			"Commerces"
+			"Close to Metros",
+			"Shops"
 		]
 	},
 	{
 		"id": "af6d2d48",
-		"title": "Bungalow dans la forêt",
+		"title": "Bungalow in the Forest",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-12-1.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-12-1.jpg",
@@ -382,29 +382,29 @@
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-12-4.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-12-5.jpg"
 		],
-		"description": "Quittez Paris pour vous mettre au vert. À seulement 30 minutes de la Gare du Nord, venez découvrir la forêt d'Ecouen directement depuis la fenêtre de votre bungalow. Entièrement équipé, ce logement saura vous accueillir dans le confort, tout en vous permettant de vous concentrer sur l'essentiel. Le matin, ouvrez les fenêtres, et profitez du chant des oiseaux.",
+		"description": "Leave Paris and go green. Only 30 minutes from the Gare du Nord train station, come and discover the Ecouen forest directly from the window of your bungalow. Fully equipped, this accommodation will welcome you in comfort, while allowing you to concentrate on the essentials. In the morning, open the windows and enjoy the birds singing.",
 		"host": {
 			"name": "Sarah Devit",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-8.jpg"
 		},
 		"rating": "5",
-		"location": "Ile de France - Ecouen",
+		"location": "Ecouen",
 		"equipments": [
-			"SDB",
-			"Cuisine équipée",
-			"Toilettes sèches",
-			"Frigo",
-			"Bouilloire"
+			"Bathroom",
+			"Equiped Kitchen",
+			"Dry Toilet",
+			"Fridge",
+			"Kettle"
 		],
 		"tags": [
-			"Forêt",
+			"Forest",
 			"Nature",
-			"Musée d'Ecouen"
+			"Ecouen Museum"
 		]
 	},
 	{
 		"id": "7cbb378e",
-		"title": "Grande Maison proche banlieue",
+		"title": "Large House in Nearby Suburb",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-13-2.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-13-2.jpg",
@@ -413,32 +413,32 @@
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-13-5.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-13-6.jpg"
 		],
-		"description": "Vous chercher un endroit pour fêter un anniversaire entre amis tout en restant proche de Paris ? Ne cherchez plus ! Entièrement équipée, cette maison est l'endroit idéal pour se regrouper.",
+		"description": "Looking for a place to celebrate a birthday with friends while staying close to Paris? Look no further! Fully equipped, this house is the perfect place to get together.",
 		"host": {
 			"name": "Karen Guillet",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-9.jpg"
 		},
 		"rating": "4",
-		"location": "Ile de France - Arnouville",
+		"location": "Arnouville",
 		"equipments": [
-			"SDB",
-			"Cuisine équipée",
-			"Frigo",
-			"Bouilloire",
+			"Bathroom",
+			"Equiped kitchen",
+			"Fridge",
+			"Kettle",
 			"WIFI",
-			"Télévision",
-			"Cintres",
-			"Équipements de base"
+			"TV",
+			"Hangers",
+			"Basics"
 		],
 		"tags": [
-			"Forêt",
+			"Forest",
 			"Nature",
-			"Grande maison"
+			"Big House"
 		]
 	},
 	{
 		"id": "ba55a0cc",
-		"title": "Maison T5 - Le Vésinet",
+		"title": "4 Bedroom House - Le Vésinet",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-14-1.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-14-1.jpg",
@@ -447,34 +447,34 @@
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-14-4.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-14-5.jpg"
 		],
-		"description": "Maison T5. Idéale pour grands groupes. 45 minutes de Paris Saint-Lazare.",
+		"description": "4 bedroom house. Ideal for large groups. 45 minutes from Paris Saint-Lazare.",
 		"host": {
 			"name": "Karen Guillet",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-9.jpg"
 		},
 		"rating": "3",
-		"location": "Ile de France - Arnouville",
-		"equipments": [
-			"Bouilloire",
-			"SDB",
-			"Cuisine équipée",
-			"Frigo",
+		"location": "Arnouville",
+		"Amenities": [
+			"Kettle",
+			"Bathroom",
+			"Equiped Kitchen",
+			"Fridge",
 			"WIFI",
 			"TV",
-			"Cintres",
-			"Four",
-			"Micro-Ondes",
-			"Parking"
+			"Hangers",
+			"Oven",
+			"Microwave",
+			"Parking space"
 		],
 		"tags": [
 			"Nature",
-			"Groupe",
-			"Maison"
+			"Group",
+			"House"
 		]
 	},
 	{
 		"id": "1e181317",
-		"title": "Loft de Luxe à la Défense",
+		"title": "Luxery Loft Near La Defense",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-15-1.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-15-1.jpg",
@@ -483,31 +483,31 @@
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-15-4.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-15-5.jpg"
 		],
-		"description": "Si vous êtes à la recherche de l'endroit idéal pour poser vos valises entre deux rdvs d'affaire, ne cherchez plus. Notre loft est l'endroit idéal. En plein coeur de la Défense, il dispose également de tous les équipements pour que vous soyez comme chez vous.",
+		"description": "If you're looking for the perfect place to put your suitcases between business meetings, look no further. Our loft is the perfect place. Right in the heart of La Défense, it also has all the amenities to make you feel at home.",
 		"host": {
 			"name": "Julie Donatella",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-10.jpg"
 		},
 		"rating": "3",
-		"location": "Ile de France - La Défense",
-		"equipments": [
-			"Baie vitrée",
-			"Télévision",
-			"Four",
-			"Frigo",
-			"Wi-fi",
-			"Micro-Ondes",
-			"Parking"
+		"location": "Paris - La Défense",
+		"Amenities": [
+			"Bay Windows",
+			"TV",
+			"Oven",
+			"Fridge",
+			"Wifi",
+			"Microwave",
+			"Parking space"
 		],
 		"tags": [
 			"La Défense",
 			"Loft",
-			"Luxe"
+			"Luxery"
 		]
 	},
 	{
 		"id": "1e180563",
-		"title": "Charmant apt aux portes de Paris",
+		"title": "Charming apartment on the Edge of Paris",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-16-1.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-16-1.jpg",
@@ -516,99 +516,99 @@
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-16-4.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-16-5.jpg"
 		],
-		"description": "Ce charmant appartement offre des prestations de luxe, aux portes de Paris. À deux pas de la ligne 3, vous pourrez accéder à toutes les attractions touristiques dont vous avez toujours rêvées.",
+		"description": "This charming apartment offers luxury amenities at the gates of Paris. A stone's throw from line 3, you will be able to access all the tourist attractions you have always dreamed of.",
 		"host": {
 			"name": "Julie Donatella",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-10.jpg"
 		},
 		"rating": "4",
-		"location": "Ile de France - Levallois",
-		"equipments": [
-			"Télévision",
-			"Four",
-			"Frigo",
-			"Hotte",
-			"Wi-fi",
-			"Micro-Ondes"
+		"location": "Levallois",
+		"Amenities": [
+			"TV",
+			"Oven",
+			"Fridge",
+			"Hair Dryer",
+			"Wifi",
+			"Microwave"
 		],
 		"tags": [
-			"Vue Parc",
-			"Apt de Charme"
+			"Park View",
+			"Charming"
 		]
 	},
 	{
 		"id": "2139a317",
-		"title": "Cheap - Chambre Paris 20",
+		"title": "Cheap - Room in 20th Arrondissement",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-17-1.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-17-1.jpg"
 		],
-		"description": "Cette chambre dispose de toutes les facilités nécessaires. Proche métro et commerces.",
+		"description": "This room has all the basics. Near subway and shops.",
 		"host": {
 			"name": "Hugo Perrier",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-4.jpg"
 		},
 		"rating": "2",
-		"location": "Ile de France - Paris 20e",
-		"equipments": [
-			"Bouilloire",
-			"Wi-fi",
-			"Micro-Ondes"
+		"location": "Paris - 20th Arrondissement",
+		"Amenities": [
+			"Kettle",
+			"Wifi",
+			"Microwave"
 		],
 		"tags": [
-			"Vue Parc",
-			"Métros"
+			"Parc View",
+			"Metros"
 		]
 	},
 	{
 		"id": "6ff132c6",
-		"title": "Charmant studio",
+		"title": "Charming studio",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-18-1.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-18-1.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-18-2.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-18-3.jpg"
 		],
-		"description": "Ce studio décoré avec goût sera votre nid douillet après une longue journée passée à découvrir Paris.",
+		"description": "This tastefully decorated studio will be your cozy nest after a long day spent discovering Paris.",
 		"host": {
 			"name": "Michel Romy",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-11.jpg"
 		},
 		"rating": "4",
-		"location": "Ile de France - Paris 13e",
-		"equipments": [
-			"Équipements de base",
-			"Four",
-			"Frigo",
-			"Wi-fi",
-			"Micro-Ondes"
+		"location": "Paris - 13th Arrondissement",
+		"Amenities": [
+			"Basic Appliances",
+			"Oven",
+			"Fridge",
+			"Wifi",
+			"Microwave"
 		],
 		"tags": [
 			"Studio",
-			"Charmant",
-			"13e"
+			"Charming",
+			"13th Arrondissement"
 		]
 	},
 	{
 		"id": "cb02d69b",
-		"title": "Magnifique appartement Rivoli",
+		"title": "Beautiful Rivoli Apartment",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-19-1.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-19-1.jpg"
 		],
-		"description": "Au coeur du quartier historique du Marais, cet appartement est idéal pour un couple à la découverte de Paris. Situé sur la rue de Rivoli, il est à 5 minutes du Louvre.",
+		"description": "In the heart of the historic Marais district, this apartment is ideal for a couple discovering Paris. Located on the rue de Rivoli, it is 5 minutes from the Louvre.",
 		"host": {
 			"name": "Nathalie Jean",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-12.jpg"
 		},
 		"rating": "4",
-		"location": "Ile de France - Paris 13e",
-		"equipments": [
-			"Wi-fi",
-			"Équipements de base",
-			"Micro-Ondes",
-			"Frigo",
-			"Baignoire"
+		"location": "Paris - 13th Arrondissement",
+		"Amenities": [
+			"Wifi",
+			"Basic Appliances",
+			"Microwave",
+			"Fridge",
+			"Bathtub"
 		],
 		"tags": [
 			"Louvre",
